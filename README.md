@@ -2,6 +2,8 @@
 
 A simple Android App to demonstrate Firebase cloud messaging registration
 
+Running app of this can be found on playstore -> https://play.google.com/store/apps/details?id=com.osfg.fcmregistrationsample
+
 
 <b>Relevant Links</b>
 
