@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FCM Registration Sample</string>
+    <string name="refresh_fcm">Refresh FCM Reg Id</string>
+    <string name="copy_fcm">Copy FCM Reg Id to clipboard</string>
+    <string name="fcm_reg_id_label">FCM Reg Id : </string>
+    <string name="fcm_reg_in_progress">FCM registration in progress. Please refresh in some time!</string>
+</resources>
